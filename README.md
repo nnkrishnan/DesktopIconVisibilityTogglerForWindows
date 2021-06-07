@@ -6,4 +6,4 @@ This is just a untility that I made for fun. Its not fully tested.
 
 # Thank you
 A big thank you to all those lovely people at stack overflow. And the creaters of the icons.
-This icons has been designed using resources from Flaticon.com
+These icons has been designed using resources from Flaticon.com Icons made by Freepik from www.flaticon.com https://www.freepik.com 
