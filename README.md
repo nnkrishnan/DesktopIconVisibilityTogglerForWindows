@@ -19,3 +19,6 @@ If you want the app to run at startup then you need to create a shortcut to the 
  3) Press the windowskey + R
  4) type "shell:startup" and click OK
  5) Paste the shortcut there.
+
+## Note
+This app was made for windows 10. It might still work for windows 11 but I haven't checked as I no longer maintain this repo.
